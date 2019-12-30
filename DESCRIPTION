@@ -1,0 +1,14 @@
+Package: davidtools
+Type: Package
+Title: Functions for my day job
+Version: 0.1.0
+Author: David Lee
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Contains some functions that I find useful in my day job,
+    might not be much use to anyone else.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Imports: 
+    magrittr
