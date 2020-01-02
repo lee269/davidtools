@@ -12,3 +12,8 @@ SCE_proxy()
 \description{
 Workaround to get onto the internet from SCE instances
 }
+\examples{
+\dontrun{
+SCE_proxy()
+}
+}

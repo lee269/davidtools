@@ -2,4 +2,5 @@
 
 export("%>%")
 export(SCE_proxy)
+export(safe_names)
 importFrom(magrittr,"%>%")
