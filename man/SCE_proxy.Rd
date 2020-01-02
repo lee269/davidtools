@@ -10,5 +10,5 @@ SCE_proxy()
 
 }
 \description{
-SCE_proxy
+Workaround to get onto the internet from SCE instances
 }
